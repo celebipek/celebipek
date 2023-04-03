@@ -16,6 +16,6 @@ I'm Çelebi İpek<br>I'm interested in web technologies
 ![](https://github-profile-trophy.vercel.app/?username=celebipek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=celebipek&icon=7&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
