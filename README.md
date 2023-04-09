@@ -10,6 +10,6 @@ I'm Çelebi İpek<br>I'm interested in web technologies
 
 
 ---
-ss
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
